@@ -3,13 +3,10 @@
 ### Personal Deployement at https://baby-care-products-web-app.vercel.app/
 
 ## Preview
-### Desktop version
-![image](https://github.com/MeghanathShetty/Ak_digitals/assets/127648939/9e8c553b-1e82-4608-a4f3-bf4d1751c090)
-#### Full-screen preview
-![image](https://github.com/MeghanathShetty/Ak_digitals/assets/127648939/4492eb71-9626-440b-abb8-2ee84aa745b7)
+### Landing Screen
+![image](https://github.com/Sushanthsush43/BabyCareProducts_WebApp/blob/main/public/assets/images/WhatsApp%20Image%202025-01-27%20at%2016.18.26_d401e6b2.jpg)
+#### Carts Screen
+![image](https://github.com/Sushanthsush43/BabyCareProducts_WebApp/blob/main/public/assets/images/WhatsApp%20Image%202025-01-27%20at%2016.19.10_b340b8d8.jpg)
 
 #### Dashboard
-![image](https://github.com/MeghanathShetty/Ak_digitals/assets/127648939/e8d85f6a-dab5-4e8a-a662-23fb89c56f38)
-
-### Mobile Version
-<img src="https://github.com/MeghanathShetty/Ak_digitals/assets/127648939/6261f01f-b768-4bfe-9fe5-9d29e2856d64" alt="Image Alt Text" style="width:300px;" />
+![image](https://github.com/Sushanthsush43/BabyCareProducts_WebApp/blob/main/public/assets/images/WhatsApp%20Image%202025-01-27%20at%2016.19.24_effeb9c4.jpg)
